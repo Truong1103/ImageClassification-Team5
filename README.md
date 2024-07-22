@@ -15,13 +15,18 @@
 ## Tính năng tải hình ảnh từ bên ngoài để dự đoán
 
 - Ctrl+Enter để chạy , giao diện hiện ra Choose File và Cancel Upload
-- ![image](https://github.com/user-attachments/assets/87ca4e81-676f-4a6e-8728-497487b33d64)
+- ![image](https://github.com/user-attachments/assets/37094b8b-dae7-48ee-871e-ba97d10f2ef8)
+  
 - Tải lên hình ảnh: Nhấn nút **"Choose files"** để chọn một hình ảnh từ máy tính của bạn. Hình ảnh đã tải lên sẽ hiển thị trực tiếp trên giao diện Google Colab.
-- ![image](https://github.com/user-attachments/assets/27b2d64e-4116-424c-925a-6695968ccf8d)
+- ![image](https://github.com/user-attachments/assets/e90d401e-14b0-4028-a4de-dee90ba37b6e)
+- ![image](https://github.com/user-attachments/assets/e9f09797-b7ca-4207-aae9-0f2e58b476ab)
+
 - Dự đoán hình ảnh với độ chính xác dự đoán
-- ![image](https://github.com/user-attachments/assets/1ad13433-024a-4c78-9516-b11f102a4751)
+- ![image](https://github.com/user-attachments/assets/6cd52b29-1d20-4456-a42c-14e64c4e71d9)
+
 - Tự động save images sau khi dự đoán
-- ![image](https://github.com/user-attachments/assets/02dc4956-d7d3-4bd4-acf3-df904d5e6fbd)
+- ![image](https://github.com/user-attachments/assets/4b44fdaf-b982-4592-8a2d-20fe8a4047b9)
+
 
 ## Phân tích kết quả
 
